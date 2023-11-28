@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Tobigs 20-21 Landing Page"
-categories: "Landing page"
-author: "Tobigs"
+title: "Tobig's 21기 모집 랜딩 페이지"
+categories: "Landing_page"
+author: "Tobig's"
 date : 2023-11-28 12:00:00 +0900
 ---
 
@@ -12,15 +12,19 @@ date : 2023-11-28 12:00:00 +0900
 
 ---
 
-![Untitled](/assets/images/banners/home.jpeg)
+![Untitled](/assets/images/Tobig2.png)
 
 빅데이터를 공부하고 큰 사람이 되기 위해서 모인 사람들, 투빅스를 소개합니다
 
-[소개 링크 CLICK◀](https://www.notion.so/CLICK-e74a26737a8c42e0965e1520b7f6d768?pvs=21)
+[:sparkler: <span style="color:white"><U>소개 링크 CLICK◀</U></span>](https://www.notion.so/CLICK-e74a26737a8c42e0965e1520b7f6d768?pvs=21)
 
-[커리큘럼 링크 CLICK◀](https://www.notion.so/CLICK-9b2b34483f0f4a3e86d60637d6b2806b?pvs=21)
+[:books: <span style="color:white"><U>커리큘럼 링크 CLICK◀</U></span>](https://www.notion.so/CLICK-9b2b34483f0f4a3e86d60637d6b2806b?pvs=21)
 
-[컨퍼런스 링크 CLICK◀](https://www.notion.so/CLICK-d48f8fab2154479aa257b5f7e5fe5b00?pvs=21)
+[:speaker: <span style="color:white"><U>컨퍼런스 링크 CLICK◀</U></span>](https://www.notion.so/CLICK-d48f8fab2154479aa257b5f7e5fe5b00?pvs=21)
+
+## 투빅스 활동 전체 세부 TimeLine
+
+![Untitled](/assets/images/21timeline.png)
 
 ## 투빅스 공식 카카오톡 채널
 
@@ -40,6 +44,6 @@ date : 2023-11-28 12:00:00 +0900
 
 [투빅스 신입기수 21기 모집 지원서](https://forms.gle/aiWmTs4KoyXLwzK76)
 
-![투빅스에서 봬요!](/assets/images/Tobig2.png)
+![투빅스에서 봬요!](/assets/images/banners/home.jpeg)
 
 투빅스에서 봬요!
