@@ -47,7 +47,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   안녕하세요. 저희는 인공지능 및 빅데이터 대표 연합 동아리 투빅스입니다.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "tobigs-datamarket.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://tobigs-datamarket.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
