@@ -4,6 +4,8 @@ title: "🎇TOBIG's 21기 모집🎇"
 categories: "Landing_page"
 author: "Tobig's"
 date : 2023-11-28 12:00:00 +0900
+tags : Tobig's 21기모집
+banner : /assets/images/21th-mozip.jpg
 ---
 
 # **TOBIG’S 21기 모집**
