@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tobig's 21기 모집 랜딩 페이지"
+title: "🎇TOBIG's 21기 모집🎇"
 categories: "Landing_page"
 author: "Tobig's"
 date : 2023-11-28 12:00:00 +0900
@@ -16,11 +16,11 @@ date : 2023-11-28 12:00:00 +0900
 
 빅데이터를 공부하고 큰 사람이 되기 위해서 모인 사람들, 투빅스를 소개합니다
 
-[:sparkler: <span style="color:white"><U>소개 링크 CLICK◀</U></span>](https://www.notion.so/CLICK-e74a26737a8c42e0965e1520b7f6d768?pvs=21)
+[🎆 <span style="color:white"><U>소개 링크 CLICK◀</U></span>](https://www.notion.so/CLICK-e74a26737a8c42e0965e1520b7f6d768?pvs=21)
 
-[:books: <span style="color:white"><U>커리큘럼 링크 CLICK◀</U></span>](https://www.notion.so/CLICK-9b2b34483f0f4a3e86d60637d6b2806b?pvs=21)
+[📚<span style="color:white"><U>커리큘럼 링크 CLICK◀</U></span>](https://www.notion.so/CLICK-9b2b34483f0f4a3e86d60637d6b2806b?pvs=21)
 
-[:speaker: <span style="color:white"><U>컨퍼런스 링크 CLICK◀</U></span>](https://www.notion.so/CLICK-d48f8fab2154479aa257b5f7e5fe5b00?pvs=21)
+[🗣<span style="color:white"><U>컨퍼런스 링크 CLICK◀</U></span>](https://www.notion.so/CLICK-d48f8fab2154479aa257b5f7e5fe5b00?pvs=21)
 
 ## 투빅스 활동 전체 세부 TimeLine
 
@@ -41,6 +41,14 @@ date : 2023-11-28 12:00:00 +0900
 ## 투빅스 21기 지원하러 가기
 
 ---
+📢 모집 일정
+
+- 서류 접수 기간 : 12월 4일(월)- 12월 24일(일) 밤 11시 59분 59초
+- 면접 : 1월 2일(화)
+- O.T : 1월 6일(토)
+- 컨퍼런스 : 1월 13일(토)
+
+![Untitled](/assets/images/21th-mozip.jpg)
 
 [투빅스 신입기수 21기 모집 지원서](https://forms.gle/aiWmTs4KoyXLwzK76)
 
