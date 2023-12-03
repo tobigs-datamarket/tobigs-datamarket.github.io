@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://tobigs-datamarket.github.io/sitemap.xml
