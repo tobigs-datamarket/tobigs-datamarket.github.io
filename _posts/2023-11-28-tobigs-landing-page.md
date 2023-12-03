@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "🎇TOBIG's 21기 모집🎇"
+title: "🎇인공지능 및 빅데이터 대표 연합 동아리 투빅스(TOBIG's)에서 인입기수(21기)를 모집합니다.🎇"
 categories: "Landing_page"
 author: "Tobig's"
-date : 2023-11-28 12:00:00 +0900
+date : 2023-12-04 00:00:00 +0900
 tags : Tobig's 21기모집
 banner : /assets/images/21th-mozip.jpg
 ---
@@ -34,7 +34,7 @@ banner : /assets/images/21th-mozip.jpg
 
 [http://pf.kakao.com/_QyxiDxb](http://pf.kakao.com/_QyxiDxb)
 
-(위 이미지에서 '**채널 추가**' 버튼을 누르시면 투빅이를 바로 만나보실 수 있습니다)
+(위 링크에서 '**채널 추가**' 버튼을 누르시면 투빅이를 만나보실 수 있습니다)
 
 카카오톡에서 **tobigs** 검색, '채널추가' 후 '채팅하기' 버튼을 누르시면 **공식 Q&A**를 확인하실 수 있습니다. 
 
@@ -52,7 +52,7 @@ banner : /assets/images/21th-mozip.jpg
 
 ![Untitled](/assets/images/21th-mozip.jpg)
 
-[투빅스 신입기수 21기 모집 지원서](https://forms.gle/aiWmTs4KoyXLwzK76)
+[👉 투빅스 신입기수 21기 모집 지원서 (Click) 👈](https://forms.gle/aiWmTs4KoyXLwzK76)
 
 ![투빅스에서 봬요!](/assets/images/banners/home.jpeg)
 
