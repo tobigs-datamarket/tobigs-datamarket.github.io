@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎇인공지능 및 빅데이터 대표 연합 동아리 투빅스(TOBIG's)에서 인입기수(21기)를 모집합니다.🎇"
+title: "🎇인공지능 및 빅데이터 대표 연합 동아리 투빅스(TOBIG's)에서 신입기수(21기)를 모집합니다.🎇"
 categories: "Landing_page"
 author: "Tobig's"
 date : 2023-12-04 00:00:00 +0900
