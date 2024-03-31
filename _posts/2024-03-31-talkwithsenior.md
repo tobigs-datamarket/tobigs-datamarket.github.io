@@ -40,6 +40,6 @@ banner : /assets/images/2024-03-31-talkwithsenior/thumbnail.jpg
 
 이후 조별로 선배님들과 후배들이 함께 테이블에 앉아 대화를 나누는 시간을 가졌고, 평소 궁금했지만 잘 알기 힘들었던 부분에 대해 다양한 이야기를 나누며 매우 유익한 시간을 가졌습니다.
 
-![선배와의대화단체사진.png](/assets/images/2024-03-31-talkwithsenior/%EC%84%A0%EB%B0%B0%EC%99%80%EC%9D%98%EB%8C%80%ED%99%94%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84.png)
+![선배와의대화단체사진.jpg](/assets/images/2024-03-31-talkwithsenior/danchesajin.jpg)
 
 매년 1월, 7월에 모집하는 투빅스에 지원하시고 다양한 행사에 참여하세요~! 😊😊
