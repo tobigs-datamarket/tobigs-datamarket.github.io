@@ -5,7 +5,7 @@ categories: ""
 author: "Tobig's"
 date : 2024-06-27 15:00:00 +0900
 tags : 투빅스_컨퍼런스_중간발표
-
+banner : /assets/images/2024-06-27-conference-midpre/thumbnail.jpg
 ---
 
 
