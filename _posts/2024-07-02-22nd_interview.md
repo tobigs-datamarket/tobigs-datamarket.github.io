@@ -3,7 +3,7 @@ layout: post
 title: "투빅스 22기 선발 면접 후기"
 categories: ""
 author: "Tobig's"
-date : 2024-07-02 18:00:00 +0900
+date : 2024-07-02 12:00:00 +0900
 tags : 투빅스_22기_선발
 banner : /assets/images/2024-07-02-22nd_interview/KakaoTalk_20240702_142749942_01.jpg
 ---
