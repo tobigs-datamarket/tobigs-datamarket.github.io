@@ -6,6 +6,7 @@ author: "Tobig's"
 date : 2024-07-02 12:00:00 +0900
 tags : 투빅스_22기_선발
 banner : /assets/images/2024-07-02-22nd_interview/KakaoTalk_20240702_142749942_01.jpg
+future: true
 ---
 
 안녕하세요, 투빅스 21기 운영부입니다. 이번에는 지난 6월 30일 진행되었던 22기 선발 면접 후기를 전해드리려고 합니다.
